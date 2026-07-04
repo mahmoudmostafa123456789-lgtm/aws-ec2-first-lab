@@ -18,6 +18,14 @@ This project demonstrates the process of launching and connecting to an Amazon E
 6. Connected to the instance using SSH from Windows PowerShell.
 7. Verified successful remote access.
 
+8. ## EC2 Instance Running
+
+![EC2 Running](images/ec2-running.png)
+
+## SSH Connection
+
+![SSH Login](images/ssh-login.png)
+
 ## Skills Learned
 - EC2
 - SSH
